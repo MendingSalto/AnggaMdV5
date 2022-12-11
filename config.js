@@ -14,32 +14,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6281997496643'] //ur owner number
-global.ownername = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //ur owner name
-global.developer = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //nama lu
-global.ytname = "YT: 𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //ur yt chanel name
-global.socialm = "https://github.com/AnggaXyzZ" //ur github or insta name
+global.vcardowner = ['6285232604817'] //ur owner number
+global.ownername = "KoKo•Rey" //ur owner name
+global.developer = "KoKo•Rey" //nama lu
+global.ytname = "YT: KoKo•Rey" //ur yt chanel name
+global.socialm = "https://github.com/MendingSalto" //ur github or insta name
 global.sgc = "https://chat.whatsapp.com/E3l5YxNNUx89ecCRpOoOtO"
-global.location = "Banten" //ur location
+global.location = "Kuburan" //ur location
 
 //bot bomdy 
-global.owner = ['6281997496643'] //ur number
-global.ownernomer = "6281997496643" //ur number
-global.ownertag = '6281997496643' //ur tag number
-global.premium = ['6281997496643'] //ur premium number
-global.botname = '𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇' //ur bot name
-global.ownername = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇"
-global.linkz = "https://youtube.com/@AnggaXyzz" //your theme url which will be displayed on whatsapp
-global.dana = "6281997496643"
-global.gopay = "6281997496643"
-global.pulsa = "6281997496643"
+global.owner = ['6285232604817'] //ur number
+global.ownernomer = "6285232604817" //ur number
+global.ownertag = '6285232604817' //ur tag number
+global.premium = ['6285232604817'] //ur premium number
+global.botname = 'KoKo•Rey' //ur bot name
+global.ownername = "KoKo•Rey"
+global.linkz = "https://instagram.com/callme_rey1910" //your theme url which will be displayed on whatsapp
+global.dana = "085232601817"
+global.gopay = "085232601817"
+global.pulsa = "085232601817"
 global.websitex = "https://youtube.com/@AnggaXyzz" //ur website to be displayed
 global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
 global.botscript = 'https://github.com/AnggaXyzZ' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇" //ur sticker watermark author
-global.wm = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //ur watermark
+global.author = "KoKo•Rey" //ur sticker watermark author
+global.wm = "KoKo•Rey" //ur watermark
 
 // Other
 global.sessionName = 'Session'
